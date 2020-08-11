@@ -24,7 +24,7 @@ def sub(num1,num2):
     print("Substraction is ",sub)
 
 print("Now printing the values\n")
-sum(12,34)
-mul(2,3)
-div(45,23)
-sub(23,2)
+sum(0,0)
+mul(0,0)
+div(0,0)
+sub(0,0)
